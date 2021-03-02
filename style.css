@@ -1,0 +1,23 @@
+h1 {
+    color: yellow;
+    background-color: blue;
+    border-radius: 10px;
+}
+#btn {
+    color: blue;
+    background-color: yellow;
+    transition-duration: 1s;
+}
+#btn:hover {
+    background-color: red;
+    color: white;
+    border-color: grey;
+}
+#btn:active {
+    background-color: white;
+    color: gray;
+    border-color: red;
+}
+#para1 {
+    padding-top: 300px;
+}
